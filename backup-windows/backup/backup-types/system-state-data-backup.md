@@ -2,6 +2,10 @@
 
 System state backup is a native Windows data backup type that only includes crucial OS data. CloudBerry Backup extends this function with the ability to store the data on a cloud storage of your choice.
 
+{% hint style="warning" %}
+System State Data Backup is available only on Windows Server 2008 or higher
+{% endhint %}
+
 Typical Windows system state backup contains the following data:
 
 * Windows System Registry. 
