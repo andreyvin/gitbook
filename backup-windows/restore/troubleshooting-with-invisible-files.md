@@ -1,6 +1,6 @@
 # Troubleshooting with invisible files
 
-It is sometimes necessary to use another computer to restore your data from the same cloud storage. Naturally, the computer you're trying to restore your files on must be properly configured. Otherwise, you might face a situation in which some of your files are invisible. There are 2 ways to ensure that all files are displayed: specify the correct prefix and sync repository.
+It is sometimes necessary to use another computer to restore your data from the same cloud storage. Naturally, the computer you're trying to restore your files on must be properly configured. Otherwise, you might face a situation in which some of your files are invisible. There are two ways to ensure that all files are displayed: specify the correct prefix and sync repository.
 
 **Specifying the right prefix**
 
