@@ -20,7 +20,7 @@ You can start using CloudBerry Central by signing up for it at [www.cloudberryce
 
 ![](../../.gitbook/assets/gettingstartedimg1.png)
 
-When it comes to logging in, you have two options. You can do so by either creating an account on CloudBerry Central or by logging in using your Google, Amazon, or Microsoft credentials. If you choose the second option, please ensure that your Google, Amazon, or Microsoft account address is the one you used to purchase licenses, so as to avoid manually attaching licenses later on.
+When it comes to logging in, you have two options. You can do so by either creating an account on CloudBerry Central or by logging in using your Google, Amazon, or Microsoft credentials. If you select the second option, please ensure that your Google, Amazon, or Microsoft account address is the one you used to purchase licenses, so as to avoid manually attaching licenses later on.
 
 Afterward, fill in the form, and then click **Sign up with CloudBerry**.
 
