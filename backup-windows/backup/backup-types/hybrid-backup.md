@@ -6,7 +6,7 @@ Hybrid backup is available for **all types of backup**.
 
 ## Setting up Hybrid Backup
 
-The Backup Wizard in CloudBerry Backup 5.6 immediately asks you if you want to configure a hybrid or merely a local or cloud backup. Select **Hybrid Backup **and click **Next**.
+The Backup Wizard in CloudBerry Backup 5.6 immediately asks you if you want to configure a hybrid or just a local or cloud backup. Select **Hybrid Backup **and click **Next**.
 
 ![](../../../.gitbook/assets/screen1-3.png)
 
