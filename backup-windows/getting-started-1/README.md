@@ -1,6 +1,6 @@
-# Introduction
+# Getting Started
 
-## What is CloudBerry Backup
+## What is CloudBerry Backup?
 
 CloudBerry Backup is a cross-platform, cost-effective, flexible, and versatile backup and recovery solution that enables businesses and ordinary users to perform automatic backups to various local & cloud storage services. Advanced features like encryption, compression, and block-level backup facilitate more efficient, quick, and secure file transfer between your computer and the backup destination. In the end you get an unmatched combination of reliable backup, secure data storage, and highly customizable backup configuration.
 
@@ -33,12 +33,10 @@ CloudBerry Backup comes in five main configurations:
 
 Each version adds up functionality as you move down the list. The **Desktop Edition **offers the most basic functionality while the **Ultimate Edition** is our flagship beast that can back up and restore whatever you want.
 
-
-
-Here's a table that compares all versions' functionality and pricing: 
+Here's a table that compares all versions' functionality and pricing:
 
 | Edition / Features | Free version | Desktop | Server | SQL | Exchange | Virtual Machine | Ultimate |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | File-level Backup | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | Real-time Backup | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | Hybrid Backup | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
@@ -58,5 +56,5 @@ Here's a table that compares all versions' functionality and pricing:
 | Storage Limit | 200 GB | 1 TB | 1 TB | 1 TB | 1 TB | Unlimited | Unlimited |
 | Price\* | Free | $29.99 | $119.99 | $149.99 | $229.99 | $299.99 | $299.99 |
 
-\* exclusive of VAT. 
+\* exclusive of VAT.
 
