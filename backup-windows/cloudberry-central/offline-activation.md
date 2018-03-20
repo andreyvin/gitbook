@@ -1,6 +1,6 @@
 # Offline Activation
 
-Previously, the process of offline activation was a pretty daunting task, as you had to contact our support team to get a special activation key that you would later enter in one of our products. Thankfully, we have eliminated that middle person from the process, and now you are able to perform offline activation yourself with the help of only CloudBerry Central.
+Previously, the process of offline activation was a pretty laborious task, as you had to contact our support team to get a special activation key that you would later enter in one of our products. Thankfully, we have eliminated that middle person from the process, and now you are able to perform offline activation yourself with the help of only CloudBerry Central.
 
 Below is a step-by-step tutorial on how to perform offline activation in our products.
 
