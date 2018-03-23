@@ -33,9 +33,7 @@ CloudBerry Backup comes in five main configurations:
 
 Each version adds up functionality as you move down the list. The **Desktop Edition **offers the most basic functionality while the **Ultimate Edition** is our flagship beast that can back up and restore whatever you want.
 
-
-
-Here's a table that compares all versions' functionality and pricing: 
+Here's a table that compares all versions' functionality and pricing:
 
 | Edition / Features | Free version | Desktop | Server | SQL | Exchange | Virtual Machine | Ultimate |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -58,5 +56,5 @@ Here's a table that compares all versions' functionality and pricing:
 | Storage Limit | 200 GB | 1 TB | 1 TB | 1 TB | 1 TB | Unlimited | Unlimited |
 | Price\* | Free | $29.99 | $119.99 | $149.99 | $229.99 | $299.99 | $299.99 |
 
-\* exclusive of VAT. 
+\* exclusive of VAT.
 

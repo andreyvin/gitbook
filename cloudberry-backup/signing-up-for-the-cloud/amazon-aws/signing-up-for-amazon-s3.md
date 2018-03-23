@@ -76,5 +76,5 @@ You cannot retrieve the existing secret key. You can see the secret key only onc
 If you do not write down the key or download the key file to your computer before you click **Close **or **Cancel **you will not be able to retrieve the secret key in future. Then you'll have to delete the keys that you created and create new ones.
 {% endhint %}
 
-Now that you've signed up for Amazon S3, it's time to use use the newly created credentials when [adding a backup destination](../../getting-started-1/installation-and-configuration/adding-a-backup-destination.md) in CloudBerry Backup.
+Now that you've signed up for Amazon S3, it's time to use use the newly created credentials when [adding a backup destination](../../getting-started/installation-and-configuration/adding-a-backup-destination.md) in CloudBerry Backup.
 

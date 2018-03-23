@@ -6,7 +6,7 @@ When you initially purchase a product, it only includes a lifetime license. Howe
 
 ## Purchasing a single maintenance
 
-Go to [CloudBerry Central](http://cloudberrycentral.com/). If you don't know what it is, read [our article](../getting-started-with-cloudberry-centralx.md) that explains it in detail as well as the sign up process. Once you've singed up, you can go ahead and purchase maintenance.
+Go to [CloudBerry Central](http://cloudberrycentral.com/). If you don't know what it is, read [our article](../getting-started-with-cloudberry-central.md) that explains it in detail as well as the sign up process. Once you've singed up, you can go ahead and purchase maintenance.
 
 Under **Licenses**, click **Licenses**.
 

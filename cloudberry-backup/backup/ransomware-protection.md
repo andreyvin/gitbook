@@ -1,7 +1,3 @@
----
-description: This page describes how CloudBerry Backup detects ransomware-encrypted files.
----
-
 # Ransomware Protection
 
 [Ransomware attacks](https://www.cloudberrylab.com/blog/five-tips-and-three-tools-to-protect-small-business-from-ransomware-attacks/) disrupt normal business continuity by encrypting important business documents \(or personal files like pictures, video, and documents\) and demanding a ransom to recover the data. You either recover by paying the ransom or manually restoring backups, if you have them. To help protect customer backups, we implemented ransomware protection functionality in CloudBerry Backup 5.8.

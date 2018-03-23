@@ -1,7 +1,3 @@
----
-description: This article explains how to back up data to Amazon S3 using AWS Snowball.
----
-
 # Backing up data using AWS Snowball
 
 ## What's AWS Snowball?

@@ -1,7 +1,3 @@
----
-description: This article describes the purpose of repository sync
----
-
 # Repository Sync
 
 When you initially perform backup, all of your data is uploaded to the backup destination. At the same time, CloudBerry Backup generates a so-called _repository_ which is an SQLite database that contains information on all of the backed up data, operations that have been performed with the data, and some other service information. CloudBerry Backup uses the repository to track the data that has already been backed up, so that ensuing backup jobs will not upload files that are already in the cloud. By using the repository, CloudBerry Backup reduces the number of requests sent to the cloud and thus lowers your storage bills.

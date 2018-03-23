@@ -1,7 +1,3 @@
----
-description: This page explains the process of deleting Glacier vaults
----
-
 # Deleting Glacier Vaults
 
 ### Introduction

@@ -1,9 +1,3 @@
----
-description: >-
-  This article explains the essence and types of backup types in CloudBerry
-  Backup
----
-
 # Backup Types
 
 The main entity of _CloudBerry Backup_ is a _backup plan_. A backup plan represents a record that contains the following information: what to back up, where to back up, how to back up, when to back up, and a number of other attributes like compression, encryption, and email notifications. Once you've configured a backup plan, it'll automatically execute according to the schedule. It is unnecessary to manually launch CloudBerry Backup, as our system service will ensure that backup plans continue executing as scheduled.

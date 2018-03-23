@@ -74,7 +74,7 @@ cbb activatelicense -e "email" -k "license_key" -or
 
 where "email" is your personal email and "license\_key" is your license key that you received when buying the product.
 
-You will get a service key as an output. Now you should go to [CloudBerry Central](../cloudberry-central/offline-activation.md) and generate an activation key there.
+You will get a service key as an output. Now you should go to [CloudBerry Central]() and generate an activation key there.
 
 Once you have the activation code, run the following command:
 
@@ -88,7 +88,7 @@ Alternatively, if you want to request a **trial version** offline, run the follo
 cbb activatelicense -e "email" -edition "ultimate" -t -or
 ```
 
-You will get a service key as an output. Now you should go to [CloudBerry Central](../cloudberry-central/offline-activation.md) and generate an activation key there.
+You will get a service key as an output. Now you should go to [CloudBerry Central]() and generate an activation key there.
 
 Once you have the activation code, run the following command:
 

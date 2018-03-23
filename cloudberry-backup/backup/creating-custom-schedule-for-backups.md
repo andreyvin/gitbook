@@ -1,7 +1,3 @@
----
-description: This article explains how to create a custom schedule for backups
----
-
 # Creating custom schedule for backups
 
 ### Introduction

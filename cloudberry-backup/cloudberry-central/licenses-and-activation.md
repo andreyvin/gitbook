@@ -1,7 +1,3 @@
----
-description: 'This page covers the process of purchasing, attaching, and managing licenses.'
----
-
 # Licenses and Activation
 
 The first major section of CloudBerry Central is **Licenses and Activations**. On the **Licenses** tab, you can manage licenses of all your CloudBerry products. 

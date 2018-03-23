@@ -40,9 +40,17 @@ Optionally, you can enable the so-called [_Changed Block Tracking_](https://kb.v
 
 Select the required VMs and click **Next**.
 
-![](../../../../.gitbook/assets/capture6vm.PNG)
+![](../../../../.gitbook/assets/vmwarediskselection5.PNG)
 
-Enable compression and encryption if necessary. CloudBerry Backup supports up to 256-bit military grade encryption out of the box. If you're backing up data to Amazon S3, you can also use server side encryption. Note that we don't store the key anywhere for security purposes. If you forget it, the data is permanently gone.
+Next, specify which disks you'd like to back up. 
+
+![](../../../../.gitbook/assets/vmwarediskselection4.PNG)
+
+Optionally, you can click on the disk's size and specify which folders or files should be skipped during backup.
+
+![](../../../../.gitbook/assets/vmwarediskselection3.PNG)
+
+Next, enable compression and encryption if necessary. CloudBerry Backup supports up to 256-bit military grade encryption out of the box. If you're backing up data to Amazon S3, you can also use server side encryption. Note that we don't store the key anywhere for security purposes. If you forget it, the data is permanently gone.
 
 ![](../../../../.gitbook/assets/capture7vm.PNG)
 

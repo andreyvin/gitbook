@@ -74,5 +74,5 @@ In addition to the mentioned file, the service account information will also be 
 
 ![](../../../.gitbook/assets/screen-shot-2017-03-22-at-20.20.03-1024x312.png)
 
-You're finished. Now that you've signed up for Google Cloud, it's time to use the newly created credentials when [adding a backup destination](../../getting-started-1/installation-and-configuration/adding-a-backup-destination.md) in CloudBerry Backup.
+You're finished. Now that you've signed up for Google Cloud, it's time to use the newly created credentials when [adding a backup destination](../../getting-started/installation-and-configuration/adding-a-backup-destination.md) in CloudBerry Backup.
 
