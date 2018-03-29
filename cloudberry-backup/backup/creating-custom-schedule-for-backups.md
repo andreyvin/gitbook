@@ -27,7 +27,7 @@ Scheduling can be configured in the four following ways:
 
 ![](../../.gitbook/assets/screen-shot-2018-01-30-at-18.25.37.png)
 
-1. The last option is **Real-time Backup**. It essentially allows you to perform constant backup of the selected files. In other words, whenever a file is modified, CloudBerry Backup receives a notification and backs up the file. This mechanism works similar to Google Drive.  
+1. The last option is **Real-time Backup**. This option allows you to perform constant backup of the selected files. In other words, whenever a file is modified, CloudBerry Backup receives a notification and backs up the file. This mechanism works similar to Google Drive.  
 
 ![](../../.gitbook/assets/screen-shot-2018-01-30-at-18.31.13.png)
 
