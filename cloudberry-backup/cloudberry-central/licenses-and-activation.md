@@ -2,7 +2,7 @@
 
 The first major section of CloudBerry Central is **Licenses and Activations**. On the **Licenses** tab, you can manage licenses of all your CloudBerry products.
 
-Upon first login, you should notice that all your licensesare automatically displayed on the dashboard. If you’re missing any licenses, that means they have been purchased using an email address that is different from your CloudBerry Central login. In that case, you need to manually attach them.
+Upon first login, you should notice that all your licenses are automatically displayed on the dashboard. If you’re missing any licenses, it means they have been purchased using an email address that is different from your CloudBerry Central login. In that case, you need to manually attach them.
 
 ## Attaching Licenses
 
