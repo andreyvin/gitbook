@@ -17,7 +17,7 @@ In this example we'll go with Amazon S3. Specify the display name that will appe
 ![](../../../.gitbook/assets/addaccount.png)
 
 {% hint style="success" %}
- Your storage has been added!
+Your storage has been added!
 {% endhint %}
 
 ## Adding a Local Storage

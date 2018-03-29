@@ -2,7 +2,7 @@
 
 Amazon Glacier provides 3 different retrieval options for your files:
 
-**Expedited**: for those users who are willing to spend more on storage fees for higher speeds. The data is retrievable in as little as 1 to 5 minutes. Retrievals cost $0.03 per GB and $0.01 per request. 
+**Expedited**: for those users who are willing to spend more on storage fees for higher speeds. The data is retrievable in as little as 1 to 5 minutes. Retrievals cost $0.03 per GB and $0.01 per request.
 
 Note that there are some provisions that may impede smooth restoration. If you need to get your data back in this time frame even in rare situations where demand is exceptionally high, you can provision retrieval capacity. Once you have done this, all Expedited retrievals will automatically be served via your Provisioned capacity. Each unit of Provisioned capacity costs $100 per month and ensures that you can perform at least 3 Expedited Retrievals every 5 minutes, with up to 150 MB/second of retrieval throughput. If you exceed that limit, expect errors on the part of Amazon.
 

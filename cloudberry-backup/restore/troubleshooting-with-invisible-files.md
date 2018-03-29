@@ -26,7 +26,6 @@ It’s critical to understand how Amazon Glacier functions so that you don’t g
 
 ![](../../.gitbook/assets/screen-shot-2018-01-30-at-15.22.25.png)
 
-  
 Notice the yellow warning at the bottom of the window. It prompts you to sync repository. Click **synced repository**.
 
 ![](../../.gitbook/assets/screen-shot-2018-01-30-at-15.23.31.png)
@@ -35,7 +34,6 @@ Now click **Synchronize Now.**
 
 ![](../../.gitbook/assets/screen-shot-2018-01-30-at-15.24.10.png)
 
-  
 Once done, you may proceed to restore your files from Amazon Glacier.
 
 **Others**

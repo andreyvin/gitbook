@@ -6,11 +6,11 @@ In this tutorial we will explain how to sign up for Google Cloud in just a few s
 
 Go to [https://cloud.google.com/storage/](https://cloud.google.com/storage/) and click **TRY IT FREE**.
 
-![](../../../.gitbook/assets/capture1.png)
+![](../../../.gitbook/assets/capture1.PNG)
 
 Agree with their terms of service and fill in the registration form.
 
-![](../../../.gitbook/assets/capture2.png)
+![](../../../.gitbook/assets/capture2.PNG)
 
 ![](../../../.gitbook/assets/capture3.png)
 

@@ -21,5 +21,5 @@ CloudBerry Backup should start and you can go ahead and add a local or cloud bac
 
 ![](../../../.gitbook/assets/activation3.PNG)
 
-If you don't have an internet connection, you can perform offline activation through CloudBerry Central. Read [this article]() that explains the process in detail.
+If you don't have an internet connection, you can perform offline activation through CloudBerry Central. Read [this article](activation.md) that explains the process in detail.
 

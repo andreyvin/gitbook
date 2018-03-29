@@ -42,7 +42,7 @@ Select the required VMs and click **Next**.
 
 ![](../../../../.gitbook/assets/vmwarediskselection5.PNG)
 
-Next, specify which disks you'd like to back up. 
+Next, specify which disks you'd like to back up.
 
 ![](../../../../.gitbook/assets/vmwarediskselection4.PNG)
 

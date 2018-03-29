@@ -11,5 +11,3 @@ The Advanced Options step contains the following options:
 
 ![](../../../../.gitbook/assets/wizard8.PNG)
 
-### 
-

@@ -1,6 +1,6 @@
 # Step 2. Adding a Local Backup Destination
 
-### Adding a local backup destination
+## Adding a local backup destination
 
 If you selected _Hybrid Backup_, first specify the local storage that will be used to store the backup. If this is the first time you're setting up a backup plan, click **Add New Account** to add a local storage.
 
