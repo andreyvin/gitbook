@@ -1,7 +1,3 @@
----
-description: Welcome
----
-
 # Introduction
 
 ### What is CloudBerry Backup
