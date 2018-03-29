@@ -36,10 +36,10 @@ The main dashboard of CloudBerry Central contains all the important information 
 
 ![](../../.gitbook/assets/image-44.png)
 
-1. **License Status**. It could be either “Activated” \(green key\) or “Not activated” \(red key\). Note that “Not activated” does not mean “expired”. It just means that you’ve bought a license, but haven’t activated it on any of your computers.
+1. **License Status**. It could be either “Activated” \(green key\) or “Not activated” \(red key\). Note that “Not activated” does not mean “expired”. It just means that you’ve purchased a license, but haven’t activated it on any of your computers.
 2. **Maintenance Till **. Shows you the date when your maintenance expires.
 3. **License Key **. Shows your License Keys. Truly convenient if you need to activate a license on you machine. No need to search through your emails or put your license keys in some note-taking app. Just go to CloudBerry Central and access them whenever you need.
-4. **Allow RM **. Allows you to enable Remote Management on your machines. Works only on CloudBerry Backup version 5.2 and newer.
+4. **Allow RM **. Allows you to enable Remote Management on your machines. Works only on CloudBerry Backup version 5.2 and higher.
 5. **Download button **. If you need to download the latest version of our backup solutions \(according to your license\) – you can do so by pressing the little green download button to the right of the dashboard. You will then start downloading the exact version of the software you need.
 6. **Info button **. Gives you a summary for a particular license:
 
