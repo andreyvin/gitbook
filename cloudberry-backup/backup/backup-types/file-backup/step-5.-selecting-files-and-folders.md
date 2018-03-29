@@ -1,6 +1,6 @@
 # Step 5. Selecting Files & Folders
 
-### Specifying Files & Folders to back up
+## Specifying Files & Folders to back up
 
 Specify the files and folders you'd like to back up and click **Next**.
 

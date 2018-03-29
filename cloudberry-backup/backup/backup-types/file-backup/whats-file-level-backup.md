@@ -8,6 +8,3 @@ File-level backup can be configured in the so-called _Backup Wizard_ by clicking
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L2umL2qzQM6YKx7EB_O%2F-L2umLJPcFx2DIWP4zUE%2F-L2umZI4pzrlSUpRS3ZH%2Fbackup1.PNG?generation=1516036049992028&alt=media)
 
-  
-
-

@@ -26,11 +26,11 @@ Conclude signing up for Microsoft Azure. Once done, you'll be redirected to the 
 
 In the _Azure Management Portal_, click **Storage accounts** in the left sidebar. Then click **Add**.
 
-![](../../../.gitbook/assets/image%20%2826%29.png)
+![](../../../.gitbook/assets/image-26.png)
 
 You will be redirected to the following screen:
 
-![](../../../.gitbook/assets/image%20%2813%29.png)
+![](../../../.gitbook/assets/image-13.png)
 
 Specify all of the required options and click **Create**.
 
@@ -40,11 +40,9 @@ To start working with Managed Backup Service, you first need to generate **Azure
 
 In the _Azure Management Portal_, under your storage account, click **Access Keys**. Here you can generate keys or use the default ones.
 
-![](../../../.gitbook/assets/image%20%2852%29.png)
+![](../../../.gitbook/assets/image-52.png)
 
 Write down the keys somewhere; you're gonna need them when adding a backup destination in CloudBerry Backup.
 
-![](../../../.gitbook/assets/image%20%2833%29.png)
-
-
+![](../../../.gitbook/assets/image-33.png)
 

@@ -59,7 +59,7 @@ Finally, you can configure email notifications to be notified of backup plan exe
 
 ![](../../../.gitbook/assets/image12.png)
 
-Conclude configuring the plan and, once finished, execute it. The Backup Wizard will be closed, and the backup plan will start executing. In the meantime, you can observe the backup process in the green progress bar in the dedicated dashboard section.    
+Conclude configuring the plan and, once finished, execute it. The Backup Wizard will be closed, and the backup plan will start executing. In the meantime, you can observe the backup process in the green progress bar in the dedicated dashboard section.
 
 ![](../../../.gitbook/assets/image13.PNG)
 

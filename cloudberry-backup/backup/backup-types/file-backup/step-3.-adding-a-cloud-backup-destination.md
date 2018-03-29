@@ -1,6 +1,6 @@
 # Step 3. Adding a Cloud Backup Destination
 
-### Adding a cloud backup destination
+## Adding a cloud backup destination
 
 Specify the desired cloud backup storage. If this is the first time you're setting up a backup plan, click **Add New Account** to add a cloud storage.
 

@@ -1,6 +1,6 @@
 # Step 13. Backup Plan Review
 
-### Backup plan review
+## Backup plan review
 
 Review the plan's summary and click **Next**.
 

@@ -18,7 +18,7 @@ CloudBerry Backup automatically identifies which types of backup data you have o
 
 ![](../../../.gitbook/assets/filerestore3.PNG)
 
-Now specify which versions of your files you'd like to retrieve. 
+Now specify which versions of your files you'd like to retrieve.
 
 ![](../../../.gitbook/assets/filerestore4.PNG)
 

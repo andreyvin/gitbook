@@ -21,7 +21,7 @@ AWS China region requires separate account credentials unique to the AWS China. 
 
    ![](../../../.gitbook/assets/sign_up_s3_3.png)
 
-5. Fill the form with your details, select the AWS Customer Agreement checkbox and click 
+5. Fill the form with your details, select the AWS Customer Agreement checkbox and click
 
    **Create Account and Continue**.
 
@@ -64,11 +64,11 @@ To generate security credentials, take the following steps:
 You cannot retrieve the existing secret key. You can see the secret key only once immediately after creating. So, in order to get a secret key, you will need to create a new one.
 {% endhint %}
 
-4. To generate new access keys, click **Create New Access Key**.
+1. To generate new access keys, click **Create New Access Key**.
 
 ![](../../../.gitbook/assets/signups3screen5.png)
 
-5. Click **Show Access Key **to have it displayed on the screen. Note, that you can download it to your machine as a file and open it whenever needed. To download it, just click **Download Key File**.
+1. Click **Show Access Key **to have it displayed on the screen. Note, that you can download it to your machine as a file and open it whenever needed. To download it, just click **Download Key File**.
 
 ![](../../../.gitbook/assets/signups3screen6.png)
 

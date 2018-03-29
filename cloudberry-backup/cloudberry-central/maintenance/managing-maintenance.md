@@ -2,7 +2,7 @@
 
 ## Introduction
 
-When you initially purchase a product, it only includes a lifetime license. However, maintenance for the product — which includes upgrades and support — has to be purchased separately and will cost you 20% of the product’s price. In other words, acquiring a maintenance for $299 CloudBerry Backup Ultimate edition would cost you $60. In this article we explain how to effortlessly purchase maintenance for all your CloudBerry products via CloudBerry Central. Bear in mind that you can also purchase maintenance via out website, yet we strongly recommend you do it via CloudBerry Central so as to avoid issues with different email addresses \(it’s crucial that the email address you use to purchase maintenance is identical to your CloudBerry Central login\).
+When you initially purchase a product, it only includes a lifetime license. However, maintenance for the product — which includes upgrades and support — has to be purchased separately and will cost you 20% of the product’s price. In other words, acquiring a maintenance for $299 CloudBerry Backup Ultimate edition would cost you $60. In this article we explain how to purchase maintenance for all your CloudBerry products via CloudBerry Central. Bear in mind that you can also purchase maintenance via out website, yet we strongly recommend you do it via CloudBerry Central so as to avoid issues with different email addresses \(it’s crucial that the email address you use to purchase maintenance is identical to your CloudBerry Central login\).
 
 ## Purchasing a single maintenance
 
