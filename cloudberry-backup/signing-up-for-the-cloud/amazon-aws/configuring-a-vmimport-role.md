@@ -106,7 +106,7 @@ In this post, we provide a step-by-step instruction on how to configure [Amazon 
 }
 ```
 
-![](../../../.gitbook/assets/image-10%20%281%29.png)
+![](../../../.gitbook/assets/image-10-1.png)
 
 When done, click Update Trust Policy. Now you have your _VMimport_ role configured.
 

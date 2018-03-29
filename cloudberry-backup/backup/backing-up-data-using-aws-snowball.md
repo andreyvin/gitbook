@@ -25,7 +25,7 @@ It’s critical that you use a suitable machine for data transportation. It shou
 1. Now you need enter the job details. Namely, the job’s name, the necessary bucket, and the Snowball's capacity. Once you're finished, click **Next**.
 2. Configure the security parameters.
 
-![](../../.gitbook/assets/image-1%20%281%29.png)
+![](../../.gitbook/assets/image-1-1.png)
 
 1. Configure the notifications preferences.
 
@@ -91,7 +91,7 @@ Do not close the command line! It should be running all throughout the process.
 
 Now go back to _CloudBerry Backup_ and conclude setting up the backup plan. Upon finishing, run it and wait for it to complete.
 
-![](../../.gitbook/assets/image-11%20%281%29.png)
+![](../../.gitbook/assets/image-11-1.png)
 
 Now that the data has been successfully transferred to the AWS Snowball, ship the box back to Amazon. When they notify you of your data having been moved to your bucket, go ahead and confirm it in CloudBerry Backup. Click on **“Initial backup finished…”**.
 

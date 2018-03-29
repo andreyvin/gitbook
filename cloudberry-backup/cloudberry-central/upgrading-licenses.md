@@ -8,7 +8,7 @@ Under **Licenses**, click **Licenses**. Now you see the list of all licenses you
 
 Click on the icon to get an expanded view of the upgradability options.
 
-![](../../.gitbook/assets/image-7%20%281%29.png)
+![](../../.gitbook/assets/image-7-1.png)
 
 Select the preferable product version. Note that once you've received the upgrade coupon, the inferior license will be permanently disabled. **If you click Update and fail to purchase the requested license, your old license will be disabled and you will be left without either license until you purchase the one you received the coupon for. **Click **Update**.
 

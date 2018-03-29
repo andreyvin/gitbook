@@ -51,7 +51,7 @@ Also available on the main dashboard is the ability to search through your licen
 
 The second tab in this section is **Activations**. Here you can take a look at all your current active licenses, as well as perform **offline activations**.
 
-![](../../.gitbook/assets/image-8%20%281%29.png)
+![](../../.gitbook/assets/image-8-1.png)
 
 If you experience any issues with regard to attaching, purchasing, or managing your licenses — feel free to drop us a line at [support@cloudberrylab.com](mailto:support@cloudberrylab.com).
 

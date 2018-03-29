@@ -32,7 +32,7 @@ Copy the confirmation code and head back to CloudBerry Central. On **Step 2**, p
 
 Shortly, the maintenance will be successfully imported and you will be notified.
 
-![](../../../.gitbook/assets/image-12%20%281%29.png)
+![](../../../.gitbook/assets/image-12-1.png)
 
 The maintenance is now available to you; however, it's not automatically assigned to one particular license. To do so, go to the main dashboard. Locate the required license, expand the Manage drop-down menu next to it, and click **Allocate Maintenance**.
 

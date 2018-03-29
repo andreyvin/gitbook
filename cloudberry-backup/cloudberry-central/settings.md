@@ -18,7 +18,7 @@ The last section of CloudBerry Central is **Settings**. Here you can configure y
 
 1. Now you should see **6 digits** that you will need to enter back in the pop-up window on CloudBerry Central.
 
-![](../../.gitbook/assets/image-5%20%281%29.png)
+![](../../.gitbook/assets/image-5-1.png)
 
 ![](../../.gitbook/assets/image-75.png)
 
