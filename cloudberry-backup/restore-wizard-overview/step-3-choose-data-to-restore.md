@@ -6,7 +6,7 @@ On this wizard page, you choose what kind of data you need to restore.
 
 The following topics describe the available options:
 
-* [Files/Folders or MS Exchange Data](3.1-restore-filesfolders-or-ms-exchange-data/)
+* [Files/Folders or MS Exchange Data](restore-files-and-folders/)
 * [MS SQL Server Database](3.2-restore-ms-sql-server-database/)
 * [MS SQL Server Backup Files](3.3-restore-ms-sql-server-backup-files/)
 * [Disk Image or Network Share](3.4-restore-a-disk-image-or-network-share/) _\(an image-based backup\)_

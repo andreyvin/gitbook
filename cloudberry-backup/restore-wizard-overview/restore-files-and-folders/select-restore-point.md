@@ -1,4 +1,4 @@
-# 3.1.1 - Select File Versions to Restore
+# Select a Restore Point
 
 First, you need to select whether to restore specific file versions, restore to a specific point in time, or only restore versions that were modified/backed up during a specific time interval.
 

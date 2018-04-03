@@ -1,10 +1,10 @@
-# 3.1.2 - Select Files to Restore
+# Select Files to Restore
 
 On this wizard page, you need to specify which files and/or folders to restore.
 
 ![](https://github.com/robertzakiev/gitbook/tree/703d9f96af3546d5a85e17cd24df8e3834d130e4/assets/select-files-to-restore.png)
 
-If you chose to restore specific file versions on the [previous page](3.1.1-select-file-versions-to-restore.md), you can select the required versions at this step.
+If you chose to restore specific file versions on the [previous page](select-restore-point.md), you can select the required versions at this step.
 
 If some of the files are missing in the file explorer, this may be because your repository has not yet been synchronized to make the file tree reflect the latest modification made to your storage. In this case, you might need to manually launch the synchronization process by clicking the corresponding link on this wizard page.
 
