@@ -1,4 +1,4 @@
-# 3.1.3 - Specify the Restore Destination
+# Specify the Restore Destination
 
 On this wizard page, you need to select where to restore the selected files.
 

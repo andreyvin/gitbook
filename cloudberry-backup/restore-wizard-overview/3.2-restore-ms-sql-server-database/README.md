@@ -1,4 +1,4 @@
-# 3.2 - Restore MS SQL Server Database
+# Restore MS SQL Server Database
 
 CloudBerry Backup enables you to restore Microsoft SQL Server 2000, 2003, 2005, 2008, 2012, 2014, 2016 and Express Edition databases.
 
