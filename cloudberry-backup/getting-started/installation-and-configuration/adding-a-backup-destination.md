@@ -22,7 +22,7 @@ Your storage has been added!
 
 ## Adding a Local Storage
 
-The process of adding a local storage does not differ much from adding a local storage. Simply click **File System** when adding a backup destination.
+The process of adding a local storage does not differ much from adding a cloud storage. Simply click **File System** when adding a backup destination.
 
 ![](../../../.gitbook/assets/storage1.PNG)
 
