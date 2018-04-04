@@ -4,7 +4,7 @@
 
 CloudBerry Backup is a cross-platform, cost-effective, flexible, and versatile backup and recovery solution that enables businesses and ordinary users to perform automatic backups to various local & cloud storage services. Advanced features like encryption, compression, and block-level backup facilitate more efficient, quick, and secure file transfer between your computer and the backup destination. In the end you get an unmatched combination of reliable backup, secure data storage, and highly customizable backup configuration.
 
-#### What are the key benefits of CloudBerry Backup?
+### What are the key benefits of CloudBerry Backup?
 
 * Cloud backup to Amazon S3, Glacier, Microsoft Azure, Google Cloud, OpenStack, Rackspace, and various other cloud storage services;
 * Local backup to hard drives and NAS-like storage solutions;
@@ -21,7 +21,7 @@ CloudBerry Backup is a cross-platform, cost-effective, flexible, and versatile b
 * Ransomware protection;
 * Disk capacity examination.
 
-## Selecting the right CloudBerry Backup
+### Selecting the right CloudBerry Backup
 
 CloudBerry Backup comes in five main configurations:
 
